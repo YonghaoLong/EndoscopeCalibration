@@ -1,10 +1,3 @@
-<style>
-img[src*="#width-full"] {
-  width: 100%;
-  margin: auto;
-  display: block;
-}
-</style>
 
 # Calibration for Endoscope
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
